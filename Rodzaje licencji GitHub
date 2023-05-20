@@ -1,0 +1,23 @@
+Licencja Apache 2.0: 
+Jest to otwarta licencja, która umożliwia używanie, modyfikowanie i rozpowszechnianie oprogramowania zarówno na licencji Apache, jak i na innych licencjach. Wymaga zachowania informacji o prawach autorskich, a także załączenia pełnego tekstu licencji.
+
+Licencja GNU General Public License (GPL) v3: 
+Jest to licencja wolnego oprogramowania, która gwarantuje użytkownikom prawo do używania, modyfikowania i rozpowszechniania oprogramowania na tej samej licencji lub na licencji zgodnej z GPL. Wymaga udostępnienia kodu źródłowego dla wszelkich modyfikacji i zapewnienia, że oprogramowanie, które korzysta z GPL, również jest dostępne na otwartej licencji.
+
+Licencja MIT: 
+Jest to bardzo liberalna licencja, która pozwala na używanie, modyfikowanie i rozpowszechnianie oprogramowania, zarówno w formie oryginalnej, jak i zmodyfikowanej. Wymaga jedynie dołączenia oryginalnej informacji o prawach autorskich w kopii kodu.
+
+Licencja BSD: 
+BSD (Berkeley Software Distribution) to rodzina licencji, która jest znana ze swojej elastyczności. Istnieje kilka wariantów licencji BSD, ale wspólną cechą jest to, że umożliwiają one używanie, modyfikowanie i rozpowszechnianie oprogramowania, zarówno w formie oryginalnej, jak i zmodyfikowanej. Licencje BSD wymagają zachowania informacji o prawach autorskich w kopii kodu.
+
+Licencja Boost Software License: 
+Jest to licencja stworzona przez społeczność Boost C++ Libraries. Licencja Boost pozwala na używanie, modyfikowanie i rozpowszechnianie oprogramowania na warunkach Boost Software License. Wymaga zachowania informacji o prawach autorskich i dołączenia pełnego tekstu licencji.
+
+Licencja Creative Commons:
+Jest to licencja, która umożliwia autorom udostępnianie swojego dzieła bez żadnych ograniczeń prawnych. Autor rezygnuje z wszelkich praw autorskich do swojego dzieła i umożliwia innym wykorzystywanie go w dowolny sposób, włącznie z modyfikacjami i celami komercyjnymi.
+
+Licencja Mozilla Public License (MPL): 
+Licencja MPL jest używana przez wiele projektów, w tym przeglądarkę Mozilla Firefox. MPL umożliwia używanie, modyfikowanie i rozpowszechnianie oprogramowania na warunkach MPL. Wymaga zachowania informacji o prawach autorskich i załączenia pełnego tekstu licencji. MPL różni się od GPL tym, że umożliwia łączenie kodu MPL z kodem na innych licencjach (w tym komercyjnych) i zapewnia większą elastyczność w kwestii dystrybucji.
+
+Licencja The Unlicense:
+Licencja The Unlicense jest bardzo minimalistyczna i pozwala na swobodne używanie, kopiowanie, modyfikowanie, publikowanie i rozpowszechnianie oprogramowania, zarówno w formie oryginalnej, jak i zmodyfikowanej. Oznacza to, że inni mogą dowolnie korzystać z kodu, również w celach komercyjnych, bez konieczności udzielania informacji o prawach autorskich ani udostępniania kodu źródłowego.

@@ -11,6 +11,7 @@ Przegląd lekarzy: Pacjenci mogą przeglądać listę dostępnych lekarzy specja
 Umawianie wizyt: Pacjenci mogą wybrać lekarza i dostępne terminy wizyt, a następnie umówić się na dogodny termin.
 
 Przegląd historii wizyt: Pacjenci mają dostęp do historii swoich wizyt, wraz z informacjami o lekarzach, datach wizyt i wprowadzonymi notatkami.
+
 Technologie
 
 Aplikacja NOVAKMED została zbudowana przy użyciu następujących technologii:
@@ -18,11 +19,12 @@ Aplikacja NOVAKMED została zbudowana przy użyciu następujących technologii:
 Frontend: HTML, CSS, JavaScript
 Backend: PHP
 Baza danych: MySQL
+
 Autorzy
 
-Aleksandra Orłowska
-Piotr Szymocha
-Seweryn Krwaczyk 
-Szymon Turkiewicz
+Aleksandra Orłowska <br>
+Piotr Szymocha <br>
+Seweryn Krwaczyk <br>
+Szymon Turkiewicz <br>
 
 Dziękujemy za zainteresowanie naszym projektem

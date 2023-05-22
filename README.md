@@ -1,35 +1,13 @@
-NOVAKMED - System Rejestracji Wizyt Medycznych
+Opis profilu programisty
 
-NOVAKMED to aplikacja umożliwiająca prostą i wygodną rejestrację wizyt medycznych w prywatnej przychodni. Aplikacja zapewnia pacjentom łatwy dostęp do lekarzy specjalistów oraz umożliwia zarządzanie harmonogramami wizyt.
+Witaj na moim profilu! Jestem programistą o średnio zaawansowanym poziomie, specjalizującym się w tworzeniu stron internetowych. Moje umiejętności obejmują podstawy języków JavaScript i PHP, ale najbardziej wyróżniam się w projektowaniu i implementacji stron za pomocą HTML i CSS.
 
-Funkcje aplikacji
-<pre>
-Rejestracja pacjentów: Pacjenci mogą zarejestrować się w aplikacji, tworząc swoje konta i wprowadzając swoje dane osobowe.
+Moje doświadczenie pozwoliło mi na zdobycie solidnej wiedzy w zakresie tworzenia responsywnych i estetycznych interfejsów użytkownika. Wierzę, że prostota i czytelność są kluczowe przy projektowaniu stron internetowych, dlatego staram się tworzyć intuicyjne i przyjazne dla użytkownika rozwiązania.
 
-Przegląd lekarzy: Pacjenci mogą przeglądać listę dostępnych lekarzy specjalistów w przychodni NOVAK-MED oraz zapoznać się z ich specjalizacjami.
+Jestem zaznajomiony z najnowszymi standardami i praktykami w dziedzinie front-endowego tworzenia stron internetowych. Znam się na semantycznym znaczeniu tagów HTML i jestem w stanie optymalizować kod, aby zapewnić szybkie ładowanie stron. Moje umiejętności w zakresie CSS pozwalają mi na tworzenie elastycznych układów, wykorzystując techniki takie jak flexbox i grid.
 
-Umawianie wizyt: Pacjenci mogą wybrać lekarza i dostępne terminy wizyt, a następnie umówić się na dogodny termin.
+Moje umiejętności w zakresie JavaScript i PHP są na poziomie podstawowym, ale jestem zmotywowany, aby je rozwijać i poszerzać swoje kompetencje w tych obszarach. Jestem otwarty na naukę nowych technologii i gotów do pracy w zespole, aby kontynuować rozwój swoich umiejętności programistycznych.
 
-Przegląd historii wizyt: Pacjenci mają dostęp do historii swoich wizyt, wraz z informacjami o lekarzach, datach wizyt i wprowadzonymi notatkami.
-</pre>
-Technologie
+Jeśli szukasz programisty, który ma doświadczenie w tworzeniu stron internetowych przy użyciu HTML i CSS oraz posiadającego podstawową wiedzę z zakresu JavaScript i PHP, to jestem odpowiednią osobą do Twojego zespołu. Chętnie podejmę wyzwania i przyczynię się do tworzenia innowacyjnych i atrakcyjnych stron internetowych.
 
-Aplikacja NOVAKMED została zbudowana przy użyciu następujących technologii:
-<pre>
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
-Baza danych: MySQL
-</pre>
-
-Autorzy
-
-<pre>
-Aleksandra Orłowska 
-Piotr Szymocha 
-Seweryn Krwaczyk 
-Szymon Turkiewicz 
-</pre>
-
-Dziękujemy za zainteresowanie naszym projektem
-
-
+Zapraszam do zapoznania się z moimi projektami na moim profilu GitHub. Jeśli masz pytania lub chciałbyś porozmawiać o potencjalnej współpracy, nie wahaj się ze mną skontaktować.

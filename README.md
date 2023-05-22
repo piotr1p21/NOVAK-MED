@@ -1,4 +1,4 @@
-Opis profilu programisty
+# Opis profilu programisty
 
 Witaj na moim profilu! Jestem programistą o średnio zaawansowanym poziomie, specjalizującym się w tworzeniu stron internetowych. Moje umiejętności obejmują podstawy języków JavaScript i PHP, ale najbardziej wyróżniam się w projektowaniu i implementacji stron za pomocą HTML i CSS.
 
